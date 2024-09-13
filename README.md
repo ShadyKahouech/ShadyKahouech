@@ -66,7 +66,7 @@ I'm a dedicated full-stack developer with expertise in building innovative and s
 ### 📫 Contact Me
 
 - **Email**: [shady.kahouech@gmail.com](mailto:shady.kahouech@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#) _(add your LinkedIn link)_
+- **LinkedIn**: [`https://www.linkedin.com/in/mourad-shady-kahouech-8ba85466/`](#) _(add your LinkedIn link)_
 
 ---
 
