@@ -81,6 +81,18 @@ Here's a static site example showcasing a project I've worked on. It demonstrate
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Contact Me
 
 - **Email**: [shady.kahouech@gmail.com](mailto:shady.kahouech@gmail.com)
