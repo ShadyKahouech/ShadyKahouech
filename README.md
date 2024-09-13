@@ -50,8 +50,15 @@ I'm a dedicated full-stack developer with expertise in building innovative and s
 
 ### 🛠️ Projects
 
-- **E-commerce Website**: Developed a complete e-commerce platform with features like homepage design, category filtering, and key UI components including headers and footers.
-- **Mobile Application**: Built a mobile app with interactive maps, database schema design, and seamless navigation for optimal user experience.
+#### E-commerce Website
+- **Homepage Development**: Designed and implemented the structure and design of the homepage, including exclusive components, category components, footer, and hero component for an optimized user experience.
+- **Backend Development**: Managed products and user data, including the implementation of filters by product categories.
+- **UI Components**: Developed key components such as the header, hero section, footer, and flash sales to enhance navigation and user engagement.
+
+#### Mobile Application
+- **Backend Development**: Created database schema, models, and routes for drivers and requests.
+- **Front-End Development**: Built various components, including an interactive map, 5 filter pages, and a navigation button for traversing the entire application.
+- **Data Management**: Handled data passing between pages for a seamless and consistent user experience.
 
 ---
 
