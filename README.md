@@ -70,14 +70,15 @@ I'm a dedicated full-stack developer with expertise in building innovative and s
 
 ---
 
-### 🌐 Static Site Example
+### 📊 GitHub Stats
 
-Here's a static site example showcasing a project I've worked on. It demonstrates the use of HTML, CSS, and JavaScript to create a static webpage.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadyKahouech&show_icons=true&theme=blue" alt="GitHub Stats" />
+</p>
 
-- **Project Name**: Static Site Example
-- **Description**: A simple static site created using HTML, CSS, and JavaScript to showcase responsive design and basic interactive elements.
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Live Demo**: [Static Site Example](https://your-static-site-url.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadyKahouech&theme=blue" alt="GitHub Streak" />
+</p>
 
 ---
 
