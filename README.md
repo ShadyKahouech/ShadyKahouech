@@ -42,6 +42,12 @@ I'm a dedicated full-stack developer with expertise in building innovative and s
 
 ---
 
+### 🎖️ Certifications and Additional Training
+
+- **Full-Stack JavaScript Developer Training**, RebootKamp (RBK), Technopole Ghazala, Tunisia (2024)
+
+---
+
 ### 🛠️ Projects
 
 - **E-commerce Website**: Developed a complete e-commerce platform with features like homepage design, category filtering, and key UI components including headers and footers.
