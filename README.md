@@ -82,18 +82,6 @@ I'm a dedicated full-stack developer with expertise in building innovative and s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mourad-shady-kahouech&show_icons=true&theme=blue" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mourad-shady-kahouech&theme=blue" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - **Email**: [shady.kahouech@gmail.com](mailto:shady.kahouech@gmail.com)
