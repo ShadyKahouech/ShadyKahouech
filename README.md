@@ -70,10 +70,21 @@ I'm a dedicated full-stack developer with expertise in building innovative and s
 
 ---
 
+### 🌐 Static Site Example
+
+Here's a static site example showcasing a project I've worked on. It demonstrates the use of HTML, CSS, and JavaScript to create a static webpage.
+
+- **Project Name**: Static Site Example
+- **Description**: A simple static site created using HTML, CSS, and JavaScript to showcase responsive design and basic interactive elements.
+- **Technologies Used**: HTML, CSS, JavaScript
+- **Live Demo**: [Static Site Example](https://your-static-site-url.com)
+
+---
+
 ### 📫 Contact Me
 
 - **Email**: [shady.kahouech@gmail.com](mailto:shady.kahouech@gmail.com)
-- **LinkedIn**: [`https://www.linkedin.com/in/mourad-shady-kahouech-8ba85466/`](#)
+- **LinkedIn**: [Mourad Shady Kahouech](https://www.linkedin.com/in/mourad-shady-kahouech-8ba85466/)
 
 ---
 
